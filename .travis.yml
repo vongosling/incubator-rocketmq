@@ -30,8 +30,6 @@ before_install:
 #  - osx
 #jdk:
 #  - oraclejdk8
-#  - oraclejdk7
-#  - openjdk7
 
 
 script:
